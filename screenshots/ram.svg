@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" font-family="Segoe UI, system-ui, sans-serif">
+  <rect width="820" height="300" rx="14" fill="#1c1d22"/>
+  <text x="28" y="40" fill="#f2f3f5" font-size="19" font-weight="600">RAM khi mở 10 tab (trung vị 3 lần đo, MB)</text>
+  <g font-size="13">
+    <rect x="560" y="24" width="14" height="14" rx="3" fill="#6b6f7a"/>
+    <text x="580" y="36" fill="#c9ccd3">Brave</text>
+    <rect x="640" y="24" width="14" height="14" rx="3" fill="#5fb8c2"/>
+    <text x="660" y="36" fill="#c9ccd3">Wren</text>
+  </g>
+
+  <text x="28" y="94" fill="#c9ccd3" font-size="14">Cả 10 tab</text>
+  <text x="28" y="112" fill="#c9ccd3" font-size="14">đang hoạt động</text>
+  <rect x="180" y="74" width="520" height="26" rx="5" fill="#6b6f7a"/>
+  <text x="708" y="92" fill="#f2f3f5" font-size="14">1 829</text>
+  <rect x="180" y="106" width="361" height="26" rx="5" fill="#5fb8c2"/>
+  <text x="549" y="124" fill="#f2f3f5" font-size="14">1 271  <tspan fill="#7ee0a0" font-weight="600">−31%</tspan></text>
+
+  <text x="28" y="186" fill="#c9ccd3" font-size="14">Sau khi tab nền</text>
+  <text x="28" y="204" fill="#c9ccd3" font-size="14">ngủ / giải phóng</text>
+  <rect x="180" y="166" width="505" height="26" rx="5" fill="#6b6f7a"/>
+  <text x="693" y="184" fill="#f2f3f5" font-size="14">1 775</text>
+  <rect x="180" y="198" width="106" height="26" rx="5" fill="#5fb8c2"/>
+  <text x="294" y="216" fill="#f2f3f5" font-size="14">354–372  <tspan fill="#7ee0a0" font-weight="600">−80%</tspan></text>
+
+  <text x="28" y="270" fill="#8b8f99" font-size="12">10 trang phổ biến (YouTube, VnExpress, Wikipedia, GitHub…), cùng máy Windows 11. Số liệu: spikes/s2-ram/results.</text>
+</svg>
